@@ -1,0 +1,9 @@
+/home/zhai/remote_second/buildhw/CMakeFiles/rebuild_cache.dir
+/home/zhai/remote_second/buildhw/CMakeFiles/edit_cache.dir
+/home/zhai/remote_second/buildhw/CMakeFiles/main.dir
+/home/zhai/remote_second/buildhw/hello/CMakeFiles/rebuild_cache.dir
+/home/zhai/remote_second/buildhw/hello/CMakeFiles/edit_cache.dir
+/home/zhai/remote_second/buildhw/hello/CMakeFiles/hellolib.dir
+/home/zhai/remote_second/buildhw/world/CMakeFiles/rebuild_cache.dir
+/home/zhai/remote_second/buildhw/world/CMakeFiles/edit_cache.dir
+/home/zhai/remote_second/buildhw/world/CMakeFiles/worldlib.dir
