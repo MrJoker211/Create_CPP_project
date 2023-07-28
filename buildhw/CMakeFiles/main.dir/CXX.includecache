@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../world/world.h
+
+/home/zhai/remote_second/hello/hello.h
+
+/home/zhai/remote_second/main.cpp
+hello/hello.h
+/home/zhai/remote_second/hello/hello.h
+world.h
+/home/zhai/remote_second/world.h
+iostream
+-
+

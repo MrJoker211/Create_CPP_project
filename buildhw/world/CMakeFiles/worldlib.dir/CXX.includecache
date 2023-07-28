@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhai/remote_second/world/world.cpp
+world.h
+/home/zhai/remote_second/world/world.h
+iostream
+-
+
+/home/zhai/remote_second/world/world.h
+

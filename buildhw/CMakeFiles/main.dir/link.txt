@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main.dir/main.cpp.o  -o main  -Wl,-rpath,/home/zhai/remote_second/buildhw/hello:/home/zhai/remote_second/buildhw/world hello/libhellolib.so world/libworldlib.so 
